@@ -1,0 +1,32 @@
+
+State Machine - |uart|send
+Name send.s12 send.s11 send.s10 send.s9 send.s8 send.s7 send.s6 send.s5 send.s4 send.s3 send.s2 send.s1 send.s0 
+send.s0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+send.s1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+send.s2 0 0 0 0 0 0 0 0 0 0 1 0 1 
+send.s3 0 0 0 0 0 0 0 0 0 1 0 0 1 
+send.s4 0 0 0 0 0 0 0 0 1 0 0 0 1 
+send.s5 0 0 0 0 0 0 0 1 0 0 0 0 1 
+send.s6 0 0 0 0 0 0 1 0 0 0 0 0 1 
+send.s7 0 0 0 0 0 1 0 0 0 0 0 0 1 
+send.s8 0 0 0 0 1 0 0 0 0 0 0 0 1 
+send.s9 0 0 0 1 0 0 0 0 0 0 0 0 1 
+send.s10 0 0 1 0 0 0 0 0 0 0 0 0 1 
+send.s11 0 1 0 0 0 0 0 0 0 0 0 0 1 
+send.s12 1 0 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |uart|get
+Name get.s12 get.s11 get.s10 get.s9 get.s8 get.s7 get.s6 get.s5 get.s4 get.s3 get.s2 get.s1 get.s0 
+get.s0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+get.s1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+get.s2 0 0 0 0 0 0 0 0 0 0 1 0 1 
+get.s3 0 0 0 0 0 0 0 0 0 1 0 0 1 
+get.s4 0 0 0 0 0 0 0 0 1 0 0 0 1 
+get.s5 0 0 0 0 0 0 0 1 0 0 0 0 1 
+get.s6 0 0 0 0 0 0 1 0 0 0 0 0 1 
+get.s7 0 0 0 0 0 1 0 0 0 0 0 0 1 
+get.s8 0 0 0 0 1 0 0 0 0 0 0 0 1 
+get.s9 0 0 0 1 0 0 0 0 0 0 0 0 1 
+get.s10 0 0 1 0 0 0 0 0 0 0 0 0 1 
+get.s11 0 1 0 0 0 0 0 0 0 0 0 0 1 
+get.s12 1 0 0 0 0 0 0 0 0 0 0 0 1 
